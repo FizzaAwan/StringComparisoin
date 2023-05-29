@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Lab6
+comment0.text=\r\nCopy\ and\ run\ the\ following\ program.\ Explain\ how\ the\ program\ \r\ncompares\ the\ two\ strings.\ How\ can\ you\ modify\ the\ program\ so\ that\ \r\nstr2\ and\ str3\ are\ equal\ when\ they\ are\ compared?\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
